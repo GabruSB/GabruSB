@@ -57,7 +57,11 @@ I'm particularly interested in how frameworks like **NIST SP 800-53**, **DISA ST
 ![Linux](https://img.shields.io/badge/Linux%20(RHEL%20·%20Ubuntu%20·%20CentOS)-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
+### Skills
+
+Security Research · Vulnerability Management · OS Hardening · Compliance Policy Authoring
+GRC · Risk Assessment · Gap Analysis · Audit Readiness · Control Mapping · CVE Analysis
+MITRE ATT&CK Mapping · IAM/SSO Security · Technical Writing · Cross-functional Collaboration---
 
 ### Certifications
 
